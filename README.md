@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Adzeni Rustianda A selft taught Frontend Web Developer from Indonesia.
+
 <!--
 **rustiandacodes/rustiandacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
