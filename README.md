@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 
 
-I'm Adzeni Rustianda a selft taught Frontend Web Developer from Indonesia.
+👋 I'm Adzeni Rustianda a self taught Frontend Web Developer
+📍 Based in Tangerang - Indonesia.
+🔭 I’m currently working on my personal project making an e-commerce website with react js.
 
 <!--
 **rustiandacodes/rustiandacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
