@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adzeni Rustianda</h1>
 <h3 align="center">A self taught Frontend Developer Based in Tangerang Indonesia</h3>
 
-- 🔭 I’m currently working on **ribsgold-ecommerce**
+- 🔭 I’m currently working on my personal project **ribsgold-ecommerce**
 
 - 🌱 I’m currently learning **React JS**
 
-- 📫 How to reach me **rustiandaze09@gmail.com**
+- 📫 How to reach me **rustiandazen09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
