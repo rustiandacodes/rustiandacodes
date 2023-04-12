@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adzeni Rustianda</h1>
 <h3 align="center">A self taught Frontend Developer based in Tangerang Indonesia 🚩</h3>
 
-- 🔭 I’m currently working on my personal project **ribsgold-ecommerce**
+- 🔭 I’m currently working on my personal project **afq software agency**
 
 - 🌱 I’m currently learning **React JS**
 
