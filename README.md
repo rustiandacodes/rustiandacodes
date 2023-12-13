@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adzeni Rustianda</h1>
 <h3 align="center">A self taught Frontend Developer 🎨 based in Tangerang Indonesia 🚩</h3>
 
-- 🔭 I’m currently working on **365 days code challange** 
-
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Next JS**
 
 - 📫 How to reach me **rustiandazen09@gmail.com**
 
